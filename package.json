@@ -1,10 +1,10 @@
 {
-  "name": "babel-preset",
+  "name": "babel-preset-custom",
   "version": "1.1.0",
   "description": "Babel preset.",
   "author": "",
-  "homepage": "https://github.com/anaibol/babel-preset",
-  "repository": "https://github.com/anaibol/babel-preset",
+  "homepage": "https://github.com/anaibol/babel-preset-custom",
+  "repository": "https://github.com/anaibol/babel-preset-custom",
   "license": "MIT",
   "main": "index.js",
   "scripts": {

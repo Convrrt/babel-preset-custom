@@ -14,5 +14,5 @@ module.exports = modify('es2015', {
 
 	// remove strict plugins:
 	'transform-es2015-function-name': false,
-	'transform-es2015-typeof-symbol': false
+	'transform-es2015-typeof-symbol': false,
 });
