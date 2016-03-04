@@ -1,7 +1,5 @@
 var modify = require('modify-babel-preset');
 
-var LOOSE = { loose: true };
-
 module.exports = modify('es2015-minimal', {
 	'transform-es2015-block-scoped-functions': false,
 	'transform-es2015-for-of': false,
